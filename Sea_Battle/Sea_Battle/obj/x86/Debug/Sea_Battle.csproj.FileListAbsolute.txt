@@ -1,0 +1,26 @@
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.Form1.resources
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.Properties.Resources.resources
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.csproj.GenerateResource.Cache
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Sea_Battle.exe
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Sea_Battle.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.exe
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Controls.dll
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.MachineLearning.dll
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Statistics.dll
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\ZedGraph.dll
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Math.dll
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.dll
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Controls.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Controls.xml
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.MachineLearning.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.MachineLearning.xml
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Statistics.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Statistics.xml
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\ZedGraph.xml
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Math.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.Math.xml
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.pdb
+D:\Alex\ХАИ\8 факультет\2 курс\1 Семестр\OOP\Sea_Battle\Sea_Battle\bin\Debug\Accord.xml
+C:\Users\Администратор\Documents\GitHub\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.exe
+C:\Users\Администратор\Documents\GitHub\OOP\Sea_Battle\Sea_Battle\obj\x86\Debug\Sea_Battle.pdb
